@@ -1,5 +1,5 @@
 {
-	"name": "Anonymous Message Board",
+	"name": "anonymous-message-board",
 	"version": "0.0.1",
 	"description": "Post and reply to anonymous message board threads.",
 	"main": "server.js",
@@ -16,7 +16,7 @@
 		"mongoose": "^5.9.16"
 	},
 	"engines": {
-		"node": "4.4.3"
+		"node": "12.18.0"
 	},
 	"keywords": [
 		"node",
