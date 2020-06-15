@@ -44,6 +44,10 @@ h1 {
   max-width: 80%;
 }
 
+#newThreadText {
+  max-width: 80%;
+}
+
 .replyText {
   max-width: 80%;
 }
